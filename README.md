@@ -8,10 +8,6 @@
   - 📫 www.PlanetMaenad.com
 </div>
 
-<div align="center"> 
--
-</div>
-
 
 <div align="center"> 
 -
