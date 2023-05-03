@@ -10,10 +10,10 @@
 
 
 <div align="center"> 
--
+![](https://komarev.com/ghpvc/?username=TCKingCeryn)
 </div>
 
-![](https://komarev.com/ghpvc/?username=TCKingCeryn)
+
 
 <div align="center"> 
   <a href="https://www.youtube.com/@KingCeryn">
