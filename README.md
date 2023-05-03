@@ -13,6 +13,7 @@
 -
 </div>
 
+![](https://komarev.com/ghpvc/?username=TCKingCeryn)
 
 <div align="center"> 
   <a href="https://www.youtube.com/@KingCeryn">
@@ -23,7 +24,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=TCKingCeryn)
+
 
 
 
