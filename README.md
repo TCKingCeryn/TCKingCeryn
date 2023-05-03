@@ -10,7 +10,7 @@
 
 
 <div align="center"> 
-![](https://komarev.com/ghpvc/?username=TCKingCeryn)
+(https://komarev.com/ghpvc/?username=TCKingCeryn)
 </div>
 
 
