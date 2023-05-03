@@ -22,10 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-<div align="center"> 
 ![](https://komarev.com/ghpvc/?username=TCKingCeryn&style=plastic)
-</div>
 
 <!---
 TCKingCeryn/TCKingCeryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
