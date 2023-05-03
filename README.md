@@ -24,7 +24,7 @@
 </div>
 
 <div align="center"> 
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)]([https://github.com/novatorem](https://github.com/TCKingCeryn))
+
 </div>
 
 <!---
