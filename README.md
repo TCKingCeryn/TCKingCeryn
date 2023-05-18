@@ -5,10 +5,11 @@
   - 👋 I’m TC King, Founder.  I make video games.
 </div>
 <div align="center"> 
-  - Reach me via my website: 
-  - 📫 www.PlanetMaenad.com
+  - 📫 Reach me via my website: 
 </div>
-
+<div align="center"> 
+  - www.PlanetMaenad.com
+</div>
 
 
 
