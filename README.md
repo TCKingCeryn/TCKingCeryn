@@ -22,10 +22,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TCKingCeryn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TCKingCeryn&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rTCKingCeryn.TCKingCeryn)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TCKingCeryn&hide=TeX)
 
 <!---
 TCKingCeryn/TCKingCeryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
