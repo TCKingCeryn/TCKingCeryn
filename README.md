@@ -5,18 +5,9 @@
 <div align="center"> 
   - 👋 I’m TC King, Founder.  I make video games.
 </div>
-
-<div align="center"> 
-  - 
-</div>
-
-<div align="center"> 
-  📫 Reach me via my website: 
-</div>
 <div align="center"> 
   www.PlanetMaenad.com
 </div>
-
 <div align="center"> 
   <a href="https://www.youtube.com/@KingCeryn">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -26,6 +17,10 @@
   </a>
 </div>
 
+
+<div align="center"> 
+  - 
+</div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TCKingCeryn&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TCKingCeryn&hide=TeXlayout=compact)
