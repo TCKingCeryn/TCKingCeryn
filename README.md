@@ -18,8 +18,6 @@
 </div>
 
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TCKingCeryn&hide=TeX&theme=dracula&layout=compact)
-
 
 <!---
 TCKingCeryn/TCKingCeryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
